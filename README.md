@@ -1,4 +1,4 @@
-## Hi, I'm Amelia 👋
+## This Amelia's GitHub 👋
 
 ### About Me
 - 🏫 Informatics @ University of Washington, Seattle
