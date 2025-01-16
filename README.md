@@ -4,4 +4,4 @@
 - 🎓 Informatics @ University of Washington, Seattle
 - 👩‍💻 Aspiring developer
 - ✉️ Email: [amelial9@uw.edu](mailto:amelial9@uw.edu)
-- ✨ Website: [ameliali.com](ameliali.com)
+- ✨ Website: [ameliali.com](https://www.ameliali.com/)
