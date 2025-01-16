@@ -1,6 +1,6 @@
-### Hi, I'm Amelia 👋
+## Hi, I'm Amelia 👋
 
-# About Me
+### About Me
 - 🎓 Informatics @ University of Washington, Seattle
 - 👩‍💻 Aspiring developer
 - ✉️ Email: [amelial9@uw.edu](mailto:amelial9@uw.edu)
