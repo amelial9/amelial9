@@ -13,9 +13,9 @@
 <p>
   </br>
   <a href="https://github.com/amelial9">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=amelial9&hide_rank=true&theme=omni&show_icons=true"> 
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=amelial9&hide_rank=true&theme=gruvbox_light&show_icons=true"> 
   </a>
   <a href="https://github.com/amelial9">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amelial9&hide=HTML,CSS&hide_progress=true&theme=omni&show_icons=true">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amelial9&hide=HTML,CSS&hide_progress=true&theme=gruvbox_light&show_icons=true">
   </a>
 </p>
