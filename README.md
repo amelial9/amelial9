@@ -10,7 +10,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=amelial9&style=for-the-badge&color=FF7518" alt="Profile Views"/>
 
-<!-- 
+<!--
 <p>
   </br>
   <a href="https://github.com/amelial9">
@@ -19,5 +19,7 @@
   <a href="https://github.com/amelial9">
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amelial9&hide=HTML,CSS&hide_progress=true&theme=gruvbox_light&show_icons=true">
   </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=amelial9&show_icons=true&theme=gruvbox_light&hide=issues,contribs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amelial9&theme=gruvbox_light&layout=compact"/>
 </p>
 -->
