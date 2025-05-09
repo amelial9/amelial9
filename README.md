@@ -1,5 +1,9 @@
 ## Amelia's GitHub ⌨️
 
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Developer%2C+Visualizer%2C+Debugger" alt="Typing SVG" /></a>
+</p>
+
 ### About Me
 - 🏫 Informatics @ University of Washington, Seattle
 - 👩‍💻 Aspiring developer
