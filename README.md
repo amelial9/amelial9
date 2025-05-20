@@ -8,7 +8,7 @@
 ### About Me
 - 🏫 Informatics @ University of Washington, Seattle
 - 👩‍💻 Aspiring developer
-- 💻 Python / Java / SQL / Javascript / HTML / R
+- 💻 Python / Java / SQL / Javascript / HTML
 - 🏗️ Node.js / React
 - 🔧 Git / Microsoft Azure / Firebase / Postman / Docker / Unity / Figma
 - ✉️ Email: [amelial9@uw.edu](mailto:amelial9@uw.edu)
