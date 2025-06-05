@@ -10,7 +10,7 @@
 - 👩‍💻 Aspiring developer
 - 💻 Python / Java / SQL / Javascript / HTML
 - 🏗️ Node.js / React
-- 🔧 Git / Microsoft Azure / Firebase / Postman / Docker / Unity / Figma
+- 🔧 Git / Azure SQL Database / Firebase / MongoDB / Postman / Docker / Unity / Figma
 - ✉️ Email: [amelial9@uw.edu](mailto:amelial9@uw.edu)
 
 </br>
