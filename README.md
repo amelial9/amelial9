@@ -8,6 +8,7 @@
 ### About Me
 - 🎓 Informatics @ University of Washington, Seattle
 - 💻 Python / Java / SQL / Javascript / HTML
+- 👩‍💻 Aspiring full-stack dev
 - ✉️ Email: [amelial9@uw.edu](mailto:amelial9@uw.edu)
 
 </br>
