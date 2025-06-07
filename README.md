@@ -6,7 +6,7 @@
 </p> -->
 
 ### About Me
-- 🏫 Informatics @ University of Washington, Seattle
+- 🎓 Informatics @ University of Washington, Seattle
 - 👩‍💻 Aspiring developer
 - 💻 Python / Java / SQL / Javascript / HTML
 - 🏗️ Node.js / Express.js / React / MongoDB / Firebase
