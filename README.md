@@ -1,4 +1,4 @@
-## Amelia's GitHub ⌨️
+## Amelia's GitHub 👩‍💻⌨️
 
 
 <!-- <p align="center">
