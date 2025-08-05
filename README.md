@@ -6,7 +6,7 @@
 </p> -->
 
 ### About Me
-- ☁️ Informatics @ University of Washington, Seattle
+- ☁️ Computer Science + Informatics @ University of Washington, Seattle
 - 💻 Languages: Python • Java • SQL • HTML/CSS
 - 👩‍💻 Interests: Full-stack development • Data engineering • Project management
 - ✉️ Email: [amelial9@uw.edu](mailto:amelial9@uw.edu)
