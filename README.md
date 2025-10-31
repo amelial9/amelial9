@@ -11,12 +11,10 @@
 - 👩‍💻 Interests: Full-stack development • Data engineering • Project management
 - ✉️ Email: [amelial9@uw.edu](mailto:amelial9@uw.edu)
 
-<!-- </br>
-
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=amelial9&hide_rank=true&show_icons=true&bg_color=eeebe5&title_color=424a54&text_color=8F7A66&icon_color=baa390">
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=amelial9&background=EEEBE5&currStreakLabel=424A54&ring=BAA390&fire=BAA390&sideNums=8F7A66&sideLabels=8F7A66&currStreakNum=8F7A66" alt="GitHub Streak" /></a>
-</div> -->
+
 
 <!--
 <img src="https://komarev.com/ghpvc/?username=amelial9&style=for-the-badge&color=FF7518" alt="Profile Views"/>
