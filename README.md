@@ -11,7 +11,7 @@
 i study, build, and explain complex systems.
 
 - 💻 building things 
-- 📚 researching behavior
+- 📚 researching mouse behavior
 - 👩‍💻 teaching & mentoring
 
 <br>
