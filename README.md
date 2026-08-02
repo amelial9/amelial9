@@ -10,9 +10,9 @@
 
 i study, build, and explain complex systems.
 
-- 💻 building things 
-- 📚 researching mouse behavior
+- 💻 building things
 - 👩‍💻 teaching & mentoring
+- 📚 researching mouse behavior
 
 <p align="center">
   <img src="./images/giphy.gif" alt="chikawa" width="150" />
